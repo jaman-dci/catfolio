@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+ul {
+    justify-content: center;
+    display: flex;
+}
+
+
+
+ul li {
+    margin: 2rem;
+    list-style: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 3rem;
+
+}
+
+.intro {
+    color: blue;
+}
+
+.long-intro {
+    background-color: rgb(66, 228, 185);
+}
+
+.words {
+    color: red;
+}
